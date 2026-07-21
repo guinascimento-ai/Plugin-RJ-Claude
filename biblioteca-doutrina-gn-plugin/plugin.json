@@ -1,0 +1,8 @@
+{
+  "name": "biblioteca-doutrina-gn",
+  "version": "1.0.0",
+  "description": "Biblioteca de doutrina do Guilherme Nascimento. Reúne 11 obras de Recuperação Judicial/Falência e Processo Civil, extraídas na íntegra e fatiadas em trechos pesquisáveis, uma skill por obra, para fundamentar petições, pareceres, manifestações e análises com citação de páginas.",
+  "author": { "name": "Guilherme Nascimento" },
+  "license": "Proprietary",
+  "keywords": ["recuperacao judicial","falencia","lei 11101","processo civil","cpc","doutrina","sacramone","negrao","nery","donizetti","biblioteca","gn"]
+}
