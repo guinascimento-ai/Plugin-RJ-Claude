@@ -1,0 +1,22 @@
+{
+  "plugins": [
+    {
+      "id": "biblioteca-doutrina-gn",
+      "name": "Biblioteca de Doutrina Guilherme Nascimento",
+      "description": "Biblioteca doutrinária com 11 obras (Recuperação Judicial/Falência e Processo Civil) fatiadas em trechos pesquisáveis.",
+      "path": "biblioteca-doutrina-gn-plugin",
+      "version": "1.0.0",
+      "author": "Guilherme Nascimento",
+      "entry": "biblioteca-doutrina-gn-plugin/.claude-plugin/manifest.json",
+      "icon": "biblioteca-doutrina-gn-plugin/icon.png",
+      "tags": [
+        "doutrina",
+        "recuperacao-judicial",
+        "falencia",
+        "processo-civil",
+        "biblioteca"
+      ],
+      "enabled": true
+    }
+  ]
+}
